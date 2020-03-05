@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: index
+permalink: index.html
 title: 首页
 description: "
 ---

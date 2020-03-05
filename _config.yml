@@ -10,9 +10,9 @@ encoding: utf-8
 title:               The One and the Many
 #tagline:            
 description:         Christ The Center
-url:                  http://oneandmany.github.io/
-baseurl:  "http://oneandmany.github.io/"
-urlimg:  http://oneandmany.github.io/images/
+url:                 http://oneandmany.github.io
+baseurl:  ""
+urlimg: http://oneandmany.github.io/images/
 markdown: kramdown
 kramdown:
 math_engine: mathjax

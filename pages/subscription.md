@@ -24,4 +24,4 @@ tags:
 
  [**邮件订阅**](https://feedburner.google.com/fb/a/mailverify?uri=econoneandmany&amp;loc=en_US)
 
-[**原生RSS**](https://kingdomandcovenant.gitee.io/econblog/feed.xml)
+[**原生RSS**](https://oneand many.github.io/feed.xml)
